@@ -10,6 +10,7 @@
 		<td style = "text-align: right;">
 			<a href="../host/host_index.jsp"><img src="../images/hotel.png" width = "30" height = "30"></a>
 			<a href="../guest/guest_index.jsp"><img src="../images/reservationlogo.jpg" width = "30" height = "30"></a>
+		
 		</td>
 	</tr>
 </table>
